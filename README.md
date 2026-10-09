@@ -93,7 +93,6 @@ Projetos completos desenvolvidos como prova técnica de senioridade e arquitetur
 | 🎨 [**reactive-page-builder**](https://github.com/CaladoLucas/reactive-page-builder) | Construtor visual drag-and-drop a 60fps, renderização reativa, autosave debounced desacoplado e formulário inteligente de captação de leads. | `React 19` `Tailwind CSS` `Zustand` `Vite` |
 | ☁️ [**nestjs-cloud-monorepo**](https://github.com/CaladoLucas/nestjs-cloud-monorepo) | Microsserviços em Nx Monorepo, Clean Architecture, segurança JWT/RBAC, PostgreSQL (Prisma), métricas Prometheus e deploy AWS ECS via Docker. | `NestJS` `Nx Monorepo` `PostgreSQL` `AWS ECS` |
 | 🧠 [**agentic-engineering-skills**](https://github.com/CaladoLucas/agentic-engineering-skills) | Suíte de skills para agentes de IA: Otimizador de Fan-Out com DAG e economia de ~70% de tokens, QA com Playwright e gerador Linear/Jira/ClickUp. | `TypeScript` `Playwright` `Linear/Jira/ClickUp` |
-| 🏢 [**HomeOfficeTeatec**](https://github.com/CaladoLucas/HomeOfficeTeatec) | Ecossistema para gestão operacional e acompanhamento de rotinas corporativas remotas. | `Laravel` `MySQL` `Docker` |
 
 ---
 
