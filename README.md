@@ -43,6 +43,39 @@
 
 </div>
 
+```mermaid
+mindmap
+  root((Lucas Calado))
+    Inteligencia Artificial
+      Orquestração de LLMs
+      Engenharia de Contexto Dinamica
+      Function Calling & Safe Tool Registry
+      Governanca Human-in-the-Loop
+      Controle Transacional de Custos e Cotas
+      Agentes Concorrentes e Assincronos
+    Back-end
+      PHP Laravel 11 e Filament v3
+      Node.js & TypeScript NestJS
+      Arquitetura Multi-Tenant
+      Clean Architecture & DDD & SOLID
+    Front-end
+      React 19 & Vue.js
+      Tailwind CSS & Design Systems
+      Visual Drag-and-Drop Builders
+    Banco de Dados
+      PostgreSQL & MySQL
+      Locking ACID lockForUpdate
+      Redis Cache & Filas
+    Cloud & DevOps
+      Docker & Docker Compose
+      AWS ECS, RDS, S3
+      GitHub Actions CI/CD
+    Lideranca
+      Tech Leadership de Engenharia
+      Tomada de Decisao ADRs
+      Metodologias Ageis Scrum / Kanban
+```
+
 ---
 
 ### 🚀 Repositórios em Destaque (Showcase Prático)
