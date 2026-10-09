@@ -1,6 +1,7 @@
-<div align="center">
+<!-- Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:4338ca&height=180&section=header&text=Lucas%20Calado&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Tech%20Lead%20%7C%20Senior%20Full%20Stack%20%7C%20Enterprise%20AI%20Architect&descSize=16&descAlignY=64" width="100%" />
 
-# 👨‍💻 Lucas Calado de Araújo
+<div align="center">
 
 <a href="https://github.com/CaladoLucas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Senior+Full+Stack+Developer+%26+Tech+Lead;Enterprise+AI+Architect+%26+LLM+Orchestrator;Laravel+11%2C+Filament+v3+%26+React+19;Multi-Agent+DAG+%26+Cloud+Distributed+Systems" alt="Typing SVG" />
@@ -11,14 +12,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Calado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-calado/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(81)_99221--4955-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581992214955)
 [![Email](https://img.shields.io/badge/Email-lcaraujo4252%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcaraujo4252@gmail.com)
-[![Location](https://img.shields.io/badge/Recife-Pernambuco_--_Brasil-333333?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Recife,PE)
+[![Profile Views](https://komarev.com/ghpvc/?username=CaladoLucas&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CaladoLucas)
 
 <br/>
 
-<!-- GitHub Stats Widgets -->
+<!-- Top Languages Card (Tokyo Night) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaladoLucas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaladoLucas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="155" alt="Top Languages" />
 </p>
 
